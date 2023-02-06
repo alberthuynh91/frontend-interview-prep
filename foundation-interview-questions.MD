@@ -1,0 +1,4 @@
+- Talk about a time you had to make an important performance design decision?
+- Talk about a time you had to make an important techincal front end decision?
+- Talk about a time a catastrophic failure happened and how you went about handling it?
+- What are some non-technical challenges you have had to overcome?
